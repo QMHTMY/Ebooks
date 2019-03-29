@@ -1,6 +1,6 @@
 真相
 =============
-本书原本为Factfulness: Ten reasons we're wrong about the world-and why things are better than you think.鉴于书籍比较好，我就做了中文翻译并打包为电子书，欢迎下载。尊重作者版权，欢迎到京东购买`英文原版书籍`__。
+本书原本为Factfulness: Ten reasons we're wrong about the world-and why things are better than you think.鉴于书籍比较好，我就做了中文翻译并打包为电子书，欢迎下载。尊重作者版权，欢迎到京东购买英文原版书籍(https://item.jd.com/27817324780.html)
 
 许章润文选
 =============
@@ -10,4 +10,4 @@
 
 许章润，清华大学法学院教授、博士生导师。主要研究领域为法理学、西方法哲学、宪政理论和儒家人文主义与法学等，系新时期古典自由主义的代表人物之一。代表作品有散文集《坐待天明》。许章润座右铭是：半日静坐，半日读书；宽其程限，紧着工夫。
 
-.. __: https://item.jd.com/27817324780.html
+

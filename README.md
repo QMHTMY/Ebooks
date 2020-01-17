@@ -10,7 +10,7 @@
 ....
 
 ### 真相 
-本书原版为《Factfulness: Ten reasons we're wrong about the world-and why things are better than you think》。作者是瑞典人，国际健康教授，诺贝尔和平奖获得者，和比尔盖茨是好朋友。这本书观点简单但却新颖，鼓舞人心。比尔盖茨还亲自到哈佛大学做了推荐，所以我就做了中文翻译并打包为电子书，欢迎下载。尊重作者版权，欢迎购买英文原版书籍。
+本书原版为《Factfulness: Ten reasons we're wrong about the world-and why things are better than you think》。作者是瑞典人，国际健康教授，诺贝尔和平奖获得者，和比尔・盖茨是好朋友。这本书观点简单但却新颖，鼓舞人心。比尔盖茨还亲自到哈佛大学做了推荐，所以我就做了中文翻译并打包为电子书，欢迎下载。当然，我们要尊重作者版权，欢迎到各大网站购买英文原版书籍。**国内已出中译本《事实》。**
 
 ### 许章润文选 
 本书是由网上搜集到的许章润教授发的文章整理而成，共174篇文章。出于对知识分子的尊重，皆原文保留。
